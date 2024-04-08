@@ -1,5 +1,14 @@
-### Hi there 👋
+# Ian Ludanik
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logoColor=blue&logo=linkedin)](https://www.linkedin.com/in/ianludanik)
+
+Hello! I'm Ian, a student currently studying Computer Science. 
+
+## Projects I work on
+- [CourseSnioe](https://github.com/CourseSnipe)
+
+## Get in touch
+- LinkedIn: [Ian Ludanik](https://www.linkedin.com/in/ianludanik)
 <!--
 **ludanik/ludanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
