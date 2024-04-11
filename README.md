@@ -5,7 +5,7 @@
 Hello! I'm Ian, a student currently studying Computer Science. 
 
 ## Projects I work on
-- [CourseSnioe](https://github.com/CourseSnipe)
+- [CourseSnipe](https://github.com/CourseSnipe)
 
 ## Get in touch
 - LinkedIn: [Ian Ludanik](https://www.linkedin.com/in/ianludanik)
