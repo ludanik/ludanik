@@ -4,8 +4,9 @@
 
 Hello! I'm Ian, a student currently studying Computer Science. 
 
-## Projects I work on
-- [CourseSnipe](https://github.com/CourseSnipe)
+## Projects 
+- [CourseSnipe (automated course enrollment)](https://github.com/ludanik/CourseSnipe) 
+- [Chess Game](https://github.com/ludanik/java-chess)   
 
 ## Get in touch
 - LinkedIn: [Ian Ludanik](https://www.linkedin.com/in/ianludanik)
