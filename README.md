@@ -1,15 +1,13 @@
-# Ian Ludanik
+
+
+Hey! I'm Ian and I'm currently studying Computer Science at York University. 
+I love a challenge and I'm open to new opportunities — Feel free to send me a message at ludanik@my.yorku.ca!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logoColor=blue&logo=linkedin)](https://www.linkedin.com/in/ianludanik)
 
-Hello! I'm Ian, a student currently studying Computer Science. 
-
-## Projects 
+## Working on:
 - [CourseSnipe (automated course enrollment)](https://github.com/ludanik/CourseSnipe) 
 - [Chess Game](https://github.com/ludanik/java-chess)   
-
-## Get in touch
-- LinkedIn: [Ian Ludanik](https://www.linkedin.com/in/ianludanik)
 <!--
 **ludanik/ludanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
