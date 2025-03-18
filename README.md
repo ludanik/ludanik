@@ -6,6 +6,7 @@ I love a challenge and I'm open to new opportunities — Feel free to send me a 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logoColor=blue&logo=linkedin)](https://www.linkedin.com/in/ianludanik)
 
 ## Working on:
+- [JobFeed (aggregate job postings instantly from many sources)](https://github.com/ludanik/JobFeed) 
 - [CourseArchive (upload and download old exams)](https://github.com/ludanik/CourseArchive) 
 - [CourseSnipe (automated course enrollment)](https://github.com/ludanik/CourseSnipe) 
 - [Chess Game](https://github.com/ludanik/java-chess)   
