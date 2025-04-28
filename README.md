@@ -7,7 +7,7 @@ I love a challenge and I'm open to new opportunities — Feel free to send me a 
 
 ## Working on:
 - [JobFeed (aggregate job postings instantly from many sources)](https://github.com/ludanik/JobFeed) 
-- [CourseArchive (upload and download old exams)](https://github.com/ludanik/CourseArchive) 
+- [Google Drive Clone (upload and download files)](https://github.com/ludanik/google-drive-clone) 
 - [CourseSnipe (automated course enrollment)](https://github.com/ludanik/CourseSnipe) 
 - [Chess Game](https://github.com/ludanik/java-chess)   
 <!--
