@@ -6,6 +6,7 @@ I love a challenge and I'm open to new opportunities — Feel free to send me a 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logoColor=blue&logo=linkedin)](https://www.linkedin.com/in/ianludanik)
 
 ## Working on:
+- [Anaconda (Python-like programming language)](https://github.com/ludanik/anaconda-lang) 
 - [JobFeed (aggregate job postings instantly from many sources)](https://github.com/ludanik/JobFeed) 
 - [Google Drive Clone (upload and download files)](https://github.com/ludanik/google-drive-clone) 
 - [CourseSnipe (automated course enrollment)](https://github.com/ludanik/CourseSnipe) 
